@@ -21,4 +21,4 @@ Estudante de Tecnologia em transição de carreira, focado em Desenvolvimento We
 ## 📫 Contato
 
 - E-mail: bitencourt.d3v@gmail.com
-- LinkedIn: linkedin.com/in/paulohbitencourt
+- LinkedIn: linkedin.com/in/paulohbitencourt/
