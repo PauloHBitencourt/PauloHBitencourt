@@ -13,11 +13,11 @@ Estudante de Tecnologia em transição de carreira, focado em Desenvolvimento We
 
 ## 📊 GitHub Stats
 
-![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloHBitencourt&show_icons=true&theme=default)
+![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloHBitencourt&show_icons=true&theme=default&hide_border=true&cache_seconds=1800)
 
 ## 💻 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHBitencourt&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHBitencourt&layout=compact&theme=default&hide_border=true&cache_seconds=1800)
 
 ## 📫 Contato
 
