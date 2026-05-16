@@ -31,4 +31,17 @@ Estudante de Tecnologia em transição de carreira, focado em Desenvolvimento We
 
 ## 🐍 Minhas contribuições
 
-![Snake animation dark](https://raw.githubusercontent.com/PauloHBitencourt/PauloHBitencourt/output/snake-dark.svg)
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/PauloHBitencourt/PauloHBitencourt/output/snake-dark.svg"
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/PauloHBitencourt/PauloHBitencourt/output/snake.svg"
+  />
+  <img 
+    alt="Snake animation" 
+    src="https://raw.githubusercontent.com/PauloHBitencourt/PauloHBitencourt/output/snake.svg"
+  />
+</picture>
