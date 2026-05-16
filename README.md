@@ -24,3 +24,8 @@ Estudante de Tecnologia em transição de carreira, focado em Desenvolvimento We
   <a href="https://www.linkedin.com/in/paulohbitencourt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PauloHBitencourt/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PauloHBitencourt/PauloHBitencourt/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/PauloHBitencourt/PauloHBitencourt/output/snake.svg">
+</picture>
