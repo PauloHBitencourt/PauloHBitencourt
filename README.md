@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Paulo Bitencourt 👋
 
-<!--
-**PauloHBitencourt/PauloHBitencourt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Tecnologia em transição de carreira, focado em Desenvolvimento Web.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que estou estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Git e GitHub
+
+## 📊 GitHub Stats
+
+![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloHBitencourt&show_icons=true&theme=default)
+
+## 💻 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHBitencourt&layout=compact&theme=default)
+
+## 📫 Contato
+
+- E-mail: bitencourt.d3v@gmail.com
+- LinkedIn: linkedin.com/in/paulo-bitencourt-39a456357
